@@ -85,9 +85,7 @@ opacity: 1;
 }
 
 .arrow {
-	/*width: 15%;*/
 	position: absolute;
-	/*float: right;*/
 }
 
 #right-arrow {
@@ -126,11 +124,7 @@ opacity: 1;
 
 .output-message {
 	display: none;
-	/*margin-left: 100px;*/
 	width: 720px;
-	/*width: 55%;
-	margin-left: auto;
-	margin-right: auto;*/
 	text-align: center;
 	float: center;
 	position: relative;
@@ -161,7 +155,7 @@ opacity: 1;
 	margin-left: 10px;
 	border-radius: 20px;
 	border: none;
-	background-color: #c1272d; /*#F21D41;*/
+	background-color: #c1300d;
 	display: inline-block;
 	color: white;
 	font-size: 18px;

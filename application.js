@@ -7,13 +7,10 @@ $("numberField").keyup(function(event){
     }
 });
 
-//attempt to make the gauge arrow rotate 45 degrees back and forth
-
 $(function() {
     var $gaugeArrow = $("#right-arrow"), degree = 45, slow;
     rotate();
     function rotate() {
-        
         $gaugeArrow.css({ WebkitTransform: 'rotate(' + degree + 'deg)'});  
         $gaugeArrow.css({ '-moz-transform': 'rotate(' + degree + 'deg)'});                      
         timer = setTimeout(function() {
@@ -115,10 +112,6 @@ function submit(){
 		document.getElementById("NaN").style.display='block';
 		document.getElementById("cold-arrow").style.display = 'inline-block';
 	}
-
-//erase value in text entry box
-
 	document.getElementById("numberField").value= '';
-
 };	
 

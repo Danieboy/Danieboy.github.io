@@ -8,10 +8,8 @@
 	</head>
 	<body>
 		<div id="main-body">
-			<header>
-			</header>
-			<h1>Think You're Smart?</h1>
-			<h2>Give me a whirl. Pick a number. Any number. 1 to 100.</h2>
+			<h1>Hot or Cold</h1>
+			<h2>Pick a number between 1 and 100.</h2>
 			<div id="meter">
 				<img id="gauge" src="./images/gauge.png">
 				<img class="arrow" id="right-arrow" src="./images/right_arrow.png">
@@ -32,7 +30,7 @@
 			</div>
 			<div id="buttonArea">
 				<input type="text" class="textBox" id="numberField" onfocus="{this.value = ''}" onblur = "{this.value = ''}" value= " " onkeydown="if (event.keyCode == 13) document.getElementById('Button1').click();"/>
-           		<input type="button" onfocus="{this.value = ''}" id="Button1" value="Go!" onclick="submit();"/>
+           		<input type="button" onfocus="{this.value = ''}" id="Button1" value="Guess!" onclick="submit();"/>
 			</div>
 		</div>
 	</body>
