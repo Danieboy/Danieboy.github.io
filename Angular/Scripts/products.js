@@ -4,28 +4,28 @@
     app.directive("productDescription", function () {
         return {
             restrict: 'E',
-            templateUrl: "product-description.html"
+            templateUrl: "product-description.htm"
         };
     });
 
     app.directive("productReviews", function () {
         return {
             restrict: 'E',
-            templateUrl: "product-reviews.html"
+            templateUrl: "product-reviews.htm"
         };
     });
 
     app.directive("productSpecs", function () {
         return {
             restrict: "A",
-            templateUrl: "product-specs.html"
+            templateUrl: "product-specs.htm"
         };
     });
 
     app.directive("productTabs", function () {
         return {
             restrict: "E",
-            templateUrl: "product-tabs.html",
+            templateUrl: "product-tabs.htm",
             controller: function () {
                 this.tab = 1;
 
@@ -44,7 +44,7 @@
     app.directive("productGallery", function () {
         return {
             restrict: "E",
-            templateUrl: "product-gallery.html",
+            templateUrl: "product-gallery.htm",
             controller: function () {
                 this.current = 0;
                 this.setCurrent = function (imageNumber) {
