@@ -72,7 +72,7 @@ h2 {
 #meter {
 margin-top: 0px;
 float: left;
-width: 50%;
+width: 72%;
 margin-left: auto;
 margin-right: auto;
 padding-left: 30px;
@@ -90,8 +90,8 @@ opacity: 1;
 
 #right-arrow {
 	width: 192px;
-	margin-top: 127px;
-	margin-left: 22px;
+	margin-top: 125px;
+	margin-left: 20px;
 }
 
 #hot-arrow {
@@ -110,7 +110,7 @@ opacity: 1;
 
 #outputSpace {
 	width: 75%;
-	margin-left: auto;
+	margin-left: 200px;
 	margin-right: auto;
 	text-align: center;
 	font-size: 24px;
@@ -118,7 +118,7 @@ opacity: 1;
 	margin-top: 320px;
 	color: #1C2130;
 	opacity: .5;
-	min-width: 950px;
+	min-width: 942px;
 	height: 75px;
 }
 
