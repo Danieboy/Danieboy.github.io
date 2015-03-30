@@ -85,7 +85,7 @@ function submit(){
 		}
 		else{
 			document.getElementById("tooHigh").style.display='block';
-			document.getElementById("cold-arrow").style.display = 'inline-block';
+			document.getElementById("hot-arrow").style.display = 'inline-block';
 		}
 	}
 	
