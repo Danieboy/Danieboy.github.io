@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="500ef4ae-585c-406b-b4c3-4c2cf6b3eaf5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.js" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\.idea\deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\.idea\dictionaries\Dan.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\bootstrap.min.js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\body-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\cold_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\download-button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gauge.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-01.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-02.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-03.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-04.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-05.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-06.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-07.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-08.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\gem-09.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\github-button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\header-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\highlight-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\hot_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\right_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\images\sidebar-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\product-description.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\product-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\product-reviews.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\product-specs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\product-tabs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\products.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\store-products.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\Angular\store.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-01.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-02.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-03.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-04.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-05.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-06.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-07.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-08.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\images\gem-09.gif" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/product-gallery.html" afterPath="$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/product-gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Danieboy.github.io.iws" />
@@ -80,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,6 +38,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/product-gallery.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -131,6 +82,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -149,9 +101,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Danieboy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Danieboy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeschool-shaping-up-with-angular-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -191,6 +156,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -213,19 +184,19 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -246,10 +217,69 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.6296296">
+          <caret line="6" column="6663" selection-start-line="6" selection-start-column="6660" selection-end-line="6" selection-end-column="6663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/product-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11409396">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeschool-shaping-up-with-angular-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
