@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc66bb29-0688-4876-9c89-4432a03d7c67" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\bootstrap.min.js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\product-description.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\product-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\product-reviews.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\product-specs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\product-tabs.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\products.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\store-products.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\store.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular/store.html" afterPath="$PROJECT_DIR$/Angular/store.html" />
     </list>
     <ignored path="Danieboy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,23 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jquery-1.10.2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery-1.10.2.js">
+      <file leaf-file-name="store.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Angular/store.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="params.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/params.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.39932886">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -97,6 +61,7 @@
         <option value="$PROJECT_DIR$/product-gallery.html" />
         <option value="$PROJECT_DIR$/store-products.json" />
         <option value="$PROJECT_DIR$/store.html" />
+        <option value="$PROJECT_DIR$/Angular/store.html" />
       </list>
     </option>
   </component>
@@ -232,9 +197,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -271,12 +236,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular/app.js">
+    <entry file="file://$PROJECT_DIR$/Angular/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -284,7 +249,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular/application.js">
+    <entry file="file://$PROJECT_DIR$/params.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -302,10 +267,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/params.json">
+    <entry file="file://$PROJECT_DIR$/Angular/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/store-products.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/product-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/bootstrap.min.css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/bootstrap.min.css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/bootstrap.min.css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="5197" column="56" selection-start-line="5197" selection-start-column="51" selection-end-line="5197" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular/store.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39932886">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding />
         </state>
       </provider>
