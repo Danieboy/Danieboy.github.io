@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc66bb29-0688-4876-9c89-4432a03d7c67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/store-products.json" />
-      <change type="DELETED" beforePath="C:\Users\Dan\Documents\GitHub\Danieboy.github.io\store-products.json.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/store.html" afterPath="$PROJECT_DIR$/store.html" />
     </list>
     <ignored path="Danieboy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="store.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="store.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/store.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.92727274">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.058959536">
+              <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store-products.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="store-products.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/store-products.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87472034">
+            <state vertical-scroll-proportion="-30.076923">
               <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
               <folding />
             </state>
@@ -131,7 +130,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/store.html" />
         <option value="$PROJECT_DIR$/store-products.json.html" />
         <option value="$PROJECT_DIR$/products.js.html" />
         <option value="$PROJECT_DIR$/store-products.json.js" />
@@ -142,6 +140,7 @@
         <option value="$PROJECT_DIR$/product-tabs.html" />
         <option value="$PROJECT_DIR$/product-gallery.html" />
         <option value="$PROJECT_DIR$/store-products.json" />
+        <option value="$PROJECT_DIR$/store.html" />
       </list>
     </option>
   </component>
@@ -363,18 +362,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/store.html">
+    <entry file="file://$PROJECT_DIR$/store-products.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.92727274">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="8" />
+        <state vertical-scroll-proportion="-30.076923">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/store-products.json">
+    <entry file="file://$PROJECT_DIR$/store.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87472034">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.058959536">
+          <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
           <folding />
         </state>
       </provider>
