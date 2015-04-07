@@ -14,10 +14,10 @@ app.directive("resume", function() {
     }
 });
 
-app.directive("myProjects", function() {
+app.directive("myprojects", function() {
     return {
         restrict: "E",
-        templateUrl: "myProjects.html"
+        templateUrl: "myprojects.html"
     }
 });
 
