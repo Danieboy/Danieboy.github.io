@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" class="no-js">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -9,6 +9,12 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
 
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="css/tabstyles.css" />
+    <script src="js/modernizr.custom.js"></script>
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -17,44 +23,178 @@
   </head>
 
   <body>
+
+  <svg class="hidden">
+    <defs>
+      <path id="tabshape" d="M80,60C34,53.5,64.417,0,0,0v60H80z"/>
+    </defs>
+  </svg>
+
     <header>
       <div class="inner">
         <h1>Danieboy.GitHub.io</h1>
         <h2>Developer blog</h2>
-        <a href="https://github.com/Danieboy" class="button"><small>Follow me on</small> GitHub</a>
+        <p class="support">Your browser does not support <strong>flexbox</strong>! <br />Please view this demo with a <strong>modern browser</strong>.</p>
       </div>
     </header>
 
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          <h3>
-<a id="welcome-to-my-developer-blog" class="anchor" href="#welcome-to-my-developer-blog" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to my developer blog!</h3>
 
-<p>As I am currently looking for a job I decided to put up a website to add to my portfolio to show some of the things that I am capable of.</p>
-          <img src="images/Web-under-construction.jpeg" alt="Under Construction"></br>
+
+
+          <div class="tabs tabs-style-shape">
+            <nav>
+              <ul>
+                <li>
+                  <a href="#section-shape-1">
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <span>Start</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#section-shape-2">
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <span>Resumé</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#section-shape-3">
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <span>My Projects</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#section-shape-4">
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <span>Reviews</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#section-shape-5">
+                    <svg viewBox="0 0 80 60" preserveAspectRatio="none"><use xlink:href="#tabshape"></use></svg>
+                    <span>Contact</span>
+                  </a>
+                </li>
+              </ul>
+            </nav>
+            <div class="content-wrap">
+              <section id="section-shape-1">
+                <h1>
+                  <a id="welcome-to-my-developer-blog" class="anchor" href="#welcome-to-my-developer-blog" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to my developer blog!</h1>
+                As I am currently looking for a job I decided to put up a website to add to my portfolio to show some of the things that I am capable of.
+                <img src="images/Web-under-construction.jpeg" alt="Under Construction"></br>
+              </section>
+
+              <section id="section-shape-2">
+                <h1>Anställningar</h1>
+                <h2>Webbutvecklare</h2>
+                Diflex AB, 2014 — 2015</br>
+                Webbutvecklare i ASP.net, www.markettime.se / www.markettools.se.</br>
+                Underhåll av sida, användbarhetstestning samt tillägg av extra funktioner efter kundkontakt.</br>
+                </br>
+                <h2>Råvaruhanterare</h2>
+                Perstorp AB, 2010 — 2013</br>
+                Sommarjobb 4 år i rad.</br>
+                </br>
+                Arbetsuppgifter:</br>
+                * Kommunikation med en många människor involverade i processen.</br>
+                * Fysiskt tömma alla lastbilar och tågvagnar som levererades.</br>
+                * Inventeringar av hela Perstorp ABs lager.</br>
+                </br>
+                <h2>Underhållsingenjör</h2>
+                Perstorp AB, 2009 — 2009</br>
+                Praktik som sedan ledde till sommarjobb.</br>
+                </br>
+                <h2>Processingenjör</h2>
+                Perstorp AB, 2008 — 2008</br>
+                Praktik.</br>
+                </br>
+                <h2>Laborationstekniker</h2>
+                Celanese Emulsions, 2008 — 2008</br>
+                Sommarjobb.</br>
+                </br>
+                <h2>Simhallsanställd</h2>
+                Klippans Simhall, 2006 — 2008</br>
+                Sommarjobb på Ljungbyheds Friluftsbad 3 år i rad.</br>
+
+
+                <h1>Utbildningar</h1>
+                <h2>Lunds Tekniska Högskola, Campus Helsingborg</h2>
+                  Data, 2010 — 2015</br>
+                  Högskoleingenjör i Datateknik, allt från utveckling av program till applikationer för Android och webbutveckling.</br>
+                  </br>
+                <h2>Perstorp Gymnasium</h2>
+                  Teknik och teknisk industri, 2007 — 2010</br>
+                  Perstorp Gymnasium, en av de bästa gymnasieskolorna i Sverige under tiden. Allt från industri till kemi och företagsekonomi.</br>
+
+
+                <h1>Programmeringsspråk / relevanta verktyg</h1>
+                Java / Android utveckling.</br>
+                  C++.</br>
+                  ASP.net (C#, CSS, XML, SQL, JavaScript, phpMyAdmin).</br>
+                  HTML/HTML5.</br>
+                  Angular.js / Bootstrap.</br>
+                  GitHub / GitPages.</br>
+
+
+                <h1>Övriga meriter</h1>
+                <h2>IT-ansvarig/Webmaster</h2>
+                  Helsingborgsspexet, 2014 — Pågående</br>
+                  Kommunikationsansvarig samt ansvarig för hemsida, sociala medier och med i styrelse.</br>
+
+
+                <h1>Körkort</h1>
+                AM, B
+
+                <h1>Språk</h1>
+                Engelska, Flytande</br>
+                Svenska, Flytande</br>
+                Tyska, Lite</br>
+
+              </section>
+
+              <section id="section-shape-3">
+                <h3><p><a href="http://danieboy.github.io/hotorcold"> Hot or Cold</a></p></h3>
+                <h3><p><a href="http://danieboy.github.io/flatlander-store/index.html"> Flatlander Store Project</a></p></h3>
+                <h3><p><a href="http://danieboy.github.io/bmi-calculator/index.html"> Android Application: BMI-counter</a></p></h3>
+                <h3><p><a href="http://www.markettime.se/"> Markettime through Diflex AB (Swedish)</a></p></h3>
+                <h3><p><a href="http://test2.markettools.se"> Markettools through Diflex AB (Swedish)</a></p></h3>
+              </section>
+
+              <section id="section-shape-4">
+                These are my book reviews.
+              </section>
+
+              <section id="section-shape-5">
+                This is my contact info.
+                <br/>
+                <a href="http://se.linkedin.com/in/danandersson7"> Linkedin</a>
+                <br/>
+                <a href="https://github.com/Danieboy"> GitHub</a>
+                <br/>
+                gda10dan@student.lu.se
+              </section>
+            </div><!-- /content -->
+          </div><!-- /tabs -->
         </section>
-
-        <aside id="sidebar">
-          <a href="http://danieboy.github.io/"> Start</a>
-          </br>
-          </br>
-          <a href="http://danieboy.github.io/resume"> Resume</a>
-          </br>
-          </br>
-          <a href="http://danieboy.github.io/My-projects"> My Projects</a>
-          </br>
-          </br>
-          <a href="http://danieboy.github.io/Book-Reviews"> Book Reviews</a>
-          </br>
-          </br>
-          <a href="http://danieboy.github.io/Contact"> Contact</a>
-          </br>
-          </br>
-        </aside>
       </div>
     </div>
 
+  <script src="js/cbpFWTabs.js"></script>
+  <script>
+    (function() {
+
+      [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+        new CBPFWTabs( el );
+      });
+
+    })();
+  </script>
   
   </body>
 </html>
