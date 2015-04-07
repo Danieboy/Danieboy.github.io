@@ -1,5 +1,3 @@
-// Code goes here
-
 (function() {
   var app = angular.module('gemStore', ['store-directives']);
 
