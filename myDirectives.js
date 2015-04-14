@@ -17,7 +17,7 @@ app.directive("resume", function() {
 app.directive("myprojects", function() {
     return {
         restrict: "E",
-        templateUrl: "myprojects.html"
+        templateUrl: "myProjects.html"
     }
 });
 
