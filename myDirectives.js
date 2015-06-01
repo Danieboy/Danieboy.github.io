@@ -1,4 +1,4 @@
-var app = angular.module('blog-directives', [developerBlog]);
+var app = angular.module('blog-directives', []);
 
 app.directive("start", function() {
     return {
