@@ -9,7 +9,7 @@
     var pages = [{
         name: 'Start'
     }, {
-        name: 'Resumé'
+        name: 'Resume'
     }, {
         name: 'My Projects'
     }, {
