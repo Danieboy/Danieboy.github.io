@@ -113,5 +113,5 @@ function submit(){
 		document.getElementById("cold-arrow").style.display = 'inline-block';
 	}
 	document.getElementById("numberField").value= '';
-};	
+}
 

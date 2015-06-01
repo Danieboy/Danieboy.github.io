@@ -73,12 +73,6 @@ header h2 {
   color: #aaa;
   letter-spacing: -1px;
 }
-#downloads {
-  display: none;
-}
-#main_content {
-  padding-top: 20px;
-}
 
 code, pre {
   margin-bottom: 30px;
@@ -187,14 +181,12 @@ blockquote {
 
 ul li {
   padding-left: 20px;
-  list-style-position: inside;
-  list-style: disc;
+  list-style: disc inside;
 }
 
 ol li {
   padding-left: 3px;
-  list-style-position: inside;
-  list-style: decimal;
+  list-style: decimal inside;
 }
 
 dl dd {

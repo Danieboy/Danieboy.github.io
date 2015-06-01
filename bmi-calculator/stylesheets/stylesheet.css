@@ -507,15 +507,6 @@ aside#sidebar {
   background: transparent url(../pictures/sidebar-bg.jpg) 0 0 no-repeat;
 }
 
-aside#sidebar p.repo-owner,
-aside#sidebar p.repo-owner a {
-  font-weight: bold;
-}
-
-#downloads {
-  margin-bottom: 40px;
-}
-
 a.button {
   width: 134px;
   height: 58px;
@@ -725,14 +716,12 @@ blockquote {
 }
 
 ul {
-  list-style-position: inside;
-  list-style: disc;
+  list-style: disc inside;
   padding-left: 20px;
 }
 
 ol {
-  list-style-position: inside;
-  list-style: decimal;
+  list-style: decimal inside;
   padding-left: 3px;
 }
 
@@ -836,8 +825,7 @@ footer a:hover {
     line-height: 1;
     color: #2879d0;
     text-align: center;
-    background-color: #9ddcff;
-    background-image: none;
+    background: #9ddcff none;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;

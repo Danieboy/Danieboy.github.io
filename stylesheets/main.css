@@ -20,7 +20,7 @@ body {
 #main-body {
 	height: 1000px;
 	width: 60%;
-	border-top: 0px;
+	border-top: 0;
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -54,7 +54,7 @@ header h2 {
 h1 {
 	font-size: 48px;
 	text-align: center;
-	top: 0px;
+	top: 0;
 	position: relative;
 	line-height: 1;
 	margin-top: 50px;
@@ -70,7 +70,7 @@ h2 {
 }
 
 #meter {
-margin-top: 0px;
+margin-top: 0;
 float: left;
 width: 72%;
 margin-left: auto;
@@ -128,7 +128,7 @@ opacity: 1;
 	text-align: center;
 	float: center;
 	position: relative;
-	margin-left: 0px;
+	margin-left: 0;
 }
 
 #buttonArea {

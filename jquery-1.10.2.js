@@ -1674,7 +1674,7 @@ setDocument = Sizzle.setDocument = function( node ) {
 			return a === bup || !!( bup && bup.nodeType === 1 && (
 				adown.contains ?
 					adown.contains( bup ) :
-					a.compareDocumentPosition && a.compareDocumentPosition( bup ) & 16
+					a.compareDocumentPosition && a.compareDocumentPosition( bup ) && 16
 			));
 		} :
 		function( a, b ) {
@@ -1722,7 +1722,7 @@ setDocument = Sizzle.setDocument = function( node ) {
 					0;
 			}
 
-			return compare & 4 ? -1 : 1;
+			return compare && 4 ? -1 : 1;
 		}
 
 		// Not directly comparable, sort on existence of method
@@ -5250,7 +5250,7 @@ jQuery.event = {
 			// Add which for click: 1 === left; 2 === middle; 3 === right
 			// Note: button is not normalized, so don't use it
 			if ( !event.which && button !== undefined ) {
-				event.which = ( button & 1 ? 1 : ( button & 2 ? 3 : ( button & 4 ? 2 : 0 ) ) );
+				event.which = ( button && 1 ? 1 : ( button && 2 ? 3 : ( button && 4 ? 2 : 0 ) ) );
 			}
 
 			return event;
