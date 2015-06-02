@@ -4,11 +4,11 @@ body {
 	font-family: arial;
 	font-size: 14px;
 	color: #1D2130;
-	background-image: linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 100%);
-	background-image: -o-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 100%);
-	background-image: -moz-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 100%);
-	background-image: -webkit-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 100%);
-	background-image: -ms-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 100%);
+	background-image: linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 60%);
+	background-image: -o-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 60%);
+	background-image: -moz-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 60%);
+	background-image: -webkit-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 60%);
+	background-image: -ms-linear-gradient(top, rgb(200,225,245) 15%, rgb(240,240,240) 60%);
 
 	background-image: -webkit-gradient(
 	linear,
@@ -164,6 +164,7 @@ opacity: 1;
 	margin-top: 10px;
 }
 
+<<<<<<< HEAD
 .content-current 
 {
     display: block !important;
@@ -2399,3 +2400,6 @@ p {
 		display: none;
 	}
 }
+=======
+.content-current{display: block !important;}
+>>>>>>> parent of 4198d28... CSS changes
