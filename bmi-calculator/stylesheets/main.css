@@ -832,7 +832,7 @@ header h2 {
 }
 
 #main-content {
-	float: left;
+	position:center;
 	width: 690px;
 }
 
